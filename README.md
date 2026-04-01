@@ -6,36 +6,17 @@ Abstract: This project will allow you to implement the "Game of Life" together w
 
 ## Contents
 
-1. [Introduction](#introduction) \
-   1.1. [Project Recommendations](#project-recommendations)
-2. [Chapter I](#chapter-i) \
-   2.1. [Level 3. Hall](#level-3-hall)
-3. [Chapter II](#chapter-ii) \
-   3.1. [List 1](#list-1)
-4. [Chapter III](#chapter-iii) \
-   4.1. [Level 3. Hall](#level-3-hall-1)
-5. [Chapter IV](#chapter-iv)
+
+1. [Chapter I](#chapter-i) \
+   1.1. [Level 3. Hall](#level-3-hall)
+2. [Chapter II](#chapter-ii) \
+   2.1. [List 1](#list-1)
+3. [Chapter III](#chapter-iii) \
+   3.1. [Level 3. Hall](#level-3-hall-1)
+4. [Chapter IV](#chapter-iv)
 
 ## Introduction
-### Project Recommendations
 
-How to learn at School 21:
-
-- Throughout the course, you'll be finding information on your own. Use all available sources — Google, GigaChat, and others. Always stay critical about what you read: verify, think, analyze, compare.
-- Peer-to-peer (P2P) learning means that students exchange knowledge and experience, acting as both teachers and learners. This approach helps you learn not only from instructors but also from your peers, leading to a deeper understanding of the material.
-- Don't hesitate to ask for help — your peers are on the same path as you. And don't be afraid to respond when others ask for help. Your experience is valuable — share it freely.
-- Don't copy. If you use someone's help, make sure you fully understand _why_, _how_, and _what for_. Otherwise, your learning won't have any real value.
-- If you get stuck, feel like you've tried everything, and still don't see a way forward — take a break! Believe it or not, this simple advice has saved many developers. Get some air, clear your head — and the solution may come the next time you sit down to work.
-- The process of learning matters as much as the result. Don't just solve the task — understand _how_ to solve it.
-- Keep track of your time while working on the project. Try to complete at least one challenge per day.
-- Remember that each task, after submission, goes through several checks: a peer-review using a checklist, automated tests, code style analysis, static analysis, and memory safety checks.
-
-How to work on the project:
-
-- You can find useful video materials in the Projects (Media) section on the Platform.
-- Before starting, clone the project from GitLab into a repository with the same name.
-- All source code files must be created in the `src/` directory of the cloned repository.
-- After cloning, create a branch named `develop` and do all your work there. When pushing your progress to GitLab, make sure you push the `develop` branch.
 
 ## Chapter I
 ## Level 2. Hall.
